@@ -1,4 +1,4 @@
-# JavaScriptTvRemote
+# javascript-tv-remote
 
 ## Background
 My TV remote control has arrow buttons and an OK button.
